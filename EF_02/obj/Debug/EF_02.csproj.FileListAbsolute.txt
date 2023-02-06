@@ -1,0 +1,15 @@
+D:\NBUY\01-EF\EF_02\bin\Debug\EF_02.exe.config
+D:\NBUY\01-EF\EF_02\bin\Debug\EF_02.exe
+D:\NBUY\01-EF\EF_02\bin\Debug\EF_02.pdb
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.csproj.AssemblyReference.cache
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.Form1.resources
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.Properties.Resources.resources
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.csproj.GenerateResource.cache
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.csproj.CoreCompileInputs.cache
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.exe
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.pdb
+D:\NBUY\01-EF\EF_02\bin\Debug\EntityFramework.dll
+D:\NBUY\01-EF\EF_02\bin\Debug\EntityFramework.SqlServer.dll
+D:\NBUY\01-EF\EF_02\bin\Debug\EntityFramework.xml
+D:\NBUY\01-EF\EF_02\bin\Debug\EntityFramework.SqlServer.xml
+D:\NBUY\01-EF\EF_02\obj\Debug\EF_02.csproj.CopyComplete
